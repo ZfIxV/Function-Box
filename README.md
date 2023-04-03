@@ -21,9 +21,7 @@
 **Notes**
 
 1. <span id="ref1_en">This application only support for `Windows 11`</span>
-2. <span id="ref2_en">This application is in preliminar porduction, please stay tuned.</span>
-
-#          
+2. <span id="ref2_en">This application is in preliminar porduction, please stay tuned.</span>    
 
 **QQ交流群**
 
