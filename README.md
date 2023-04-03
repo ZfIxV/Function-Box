@@ -11,11 +11,13 @@
 
 **备注**
 
-1. <span id="ref1">本软件还在初步制作中 敬请期待</span>
+1.  <span id="ref2">本软件仅支持 'Windows 11' 版本</span>
+2.  <span id="ref2">本软件还在初步制作中 敬请期待</span>
 
 **Notes**
 
-1. <span id="ref1_en">This program is in preliminar porduction, please stay tuned.</span>
+1. <span id="ref1_en">This program only support for 'Windows 11'</span>
+2. <span id="ref2_en">This program is in preliminar porduction, please stay tuned.</span>
 
 #          
 
