@@ -5,6 +5,9 @@
 **适用于 Windows 11 的多功能工具**                                        
 **Multi-functional Tools for Windows 11**
 
+| 软件</br>Application | 最新版本</br>Latest Version | 备注</br>Notes | 平台</br>Platform | 使用指南</br>User Guide |
+| :-: | :-: | :-: | :-: | :-: |
+
 </div>
 
 #               
