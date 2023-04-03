@@ -25,4 +25,4 @@
 
 **QQ group**
 
-1. <span id="ref1_en">[Tap to join group【FunBox Communication Group】](https://qm.qq.com/cgi-bin/qm/qr?k=jwCZyFnvFKy6eEf8tmZnsLqA-rrc0EcC&authKey=OPsPPRiQoBkAXBqNeylFejhp7CpX10VU00RNpWkjmmQgtggR0Pe00L8gLESqLmCL&noverify=0)（Group Num.:716606625）
+1. <span id="ref1_en">[Tap to join group【FunBox Communication Group】](https://qm.qq.com/cgi-bin/qm/qr?k=jwCZyFnvFKy6eEf8tmZnsLqA-rrc0EcC&authKey=OPsPPRiQoBkAXBqNeylFejhp7CpX10VU00RNpWkjmmQgtggR0Pe00L8gLESqLmCL&noverify=0)（Group Num. :716606625）
