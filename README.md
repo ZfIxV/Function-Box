@@ -9,5 +9,8 @@
 
 **备注**
 
- <span id="ref1">本软件还在初步制作中 敬请期待</span>                      
- <span id="ref1_en">This program is in preliminar porduction. Stay tuned.</span>
+ <span id="ref1">本软件还在初步制作中 敬请期待</span>
+
+**Notes**
+
+ <span id="ref1_en">This program is in preliminar porduction, please stay tuned.</span>
