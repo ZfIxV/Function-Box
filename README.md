@@ -5,9 +5,9 @@
 **适用于 Windows 11 的多功能工具**                                        
 **Multi-functional Tools for Windows 11**
 
-| 软件</br>Application | 最新版本</br>Latest Version | 备注</br>Notes | 平台</br>Platform |
+| 软件</br>Application | 最新版本</br>Latest Version | 平台</br>Platform |
 | :-: | :-: | :-: | :-: |
-| [FunBox Aphla] | [0.0.1-release] | 适用于 Windows 11 用户 </br> For Windows 11 users | Windows 11 |
+| [FunBox Aphla] | [0.0.1-release] | Windows 11 |
 
 </div>
 
