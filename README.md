@@ -7,7 +7,7 @@
 
 | 软件</br>Application | 最新版本</br>Latest Version | 平台</br>Platform |
 | :-: | :-: | :-: |
-| [FunBox Alpha] | [0.0.1-release] | Windows 11 |
+| [FunBox Alpha] | [0.0.1-release] | Windows 8+ |
 
 </div>
 
