@@ -15,12 +15,12 @@
 
 **备注**
 
-1.  <span id="ref2">本软件仅支持 `Windows 11` 版本</span>
+1.  <span id="ref2">本软件仅支持 `Windows 8+` 版本</span>
 2.  <span id="ref2">本软件还在初步制作中 敬请期待</span>
 
 **Notes**
 
-1. <span id="ref1_en">This application only support for `Windows 11`</span>
+1. <span id="ref1_en">This application only support for `Windows 8+`</span>
 2. <span id="ref2_en">This application is in preliminar porduction, please stay tuned.</span>    
 
 **QQ交流群**
